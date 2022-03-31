@@ -1,5 +1,5 @@
 - Hi, I’m @Ationic-x
-- I made this github to publish my learnings in various fields of programmation, while I'm of Erasmus.
+- I made this github to publish my learnings in various fields of programming, while I'm of Erasmus.
 - Maybe in a future I going to publish my own projects.
 
 <!---
